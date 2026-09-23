@@ -33,3 +33,8 @@ A simple Pizza Ordering App built with Python and Tkinter. Users can enter their
 6. Enter the number of pizzas.
 7. Click **Place Order** to submit the order.
 8. Use **Cancel Order** if you want to cancel.
+
+## Pictures:
+
+
+
